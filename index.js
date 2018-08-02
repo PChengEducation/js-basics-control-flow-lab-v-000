@@ -10,6 +10,5 @@ function scuberGreetingForFeet(ride)
       //charge = 30;
       return "I will gladly take your thirty bucks."
     }
-  }
 
 }
