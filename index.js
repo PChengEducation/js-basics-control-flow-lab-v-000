@@ -5,7 +5,8 @@ function scuberGreetingForFeet(ride)
   //var charge = 0;
   if (ride <= 400){
     return "This one is on me!"
-    if (ride > 2000){
+    }
+    elseif (ride > 2000){
       //charge = 30;
       return "I will gladly take your thirty bucks."
     }
