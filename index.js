@@ -1,9 +1,9 @@
 // Write your code in this file!
 
-scuberGreetingForFeet()
-let ride
+function scuberGreetingForFeet()
 {
-  if ride =< 400(
-    "customers receive a free sample"
-  )
+let sample
+  if (ride <= 400){
+    return sample = "free"
+  }
 }
