@@ -29,4 +29,7 @@ function scuberGreetingForFeet(ride)
     if (tip === "generous"){
       return "Thank you so much."
     }
+    else{
+      "Thank you."
+    }
   }
