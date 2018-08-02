@@ -30,6 +30,6 @@ function scuberGreetingForFeet(ride)
       return "Thank you so much."
     }
     else{
-      "Thank you."
+      return "Thank you."
     }
   }
